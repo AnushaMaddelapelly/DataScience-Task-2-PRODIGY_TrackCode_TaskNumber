@@ -4,8 +4,11 @@ PRODIGY INFOTECH DATASCIENCE INTERNSHIP TASK 2
 Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution
 DATASET:
 
-The dataset used for this task is
-This dataset contains the following columns: PassengerId: Unique identifier for each passenge
+The dataset used for this task is 
+
+This dataset contains the following columns:
+
+PassengerId: Unique identifier for each passenge
 
 Pclass: Ticket class (1 = 1st class, 2 = 2nd class, 3 = 3rd class).
 
